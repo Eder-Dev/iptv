@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil
 http://51.15.2.241:25461/live/app/app/3222.ts
-#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil
+#EXTINF:-1 tvg-logo="" group-title="Canais | BBB",Big Brother Brasil 2
 http://51.158.144.173:25461/live/app/app/3222.ts?token=GhNdAEQMGltGVQZWA1UGAg4EVFBWUwAHBwUAXAYMBwcAAVZYBAEPUVNAHERDQEEEVwg7ClRBCwIAAAVJR0wXBBNuXAUVXhpQUlASShJAWgxTR15SBVsBAQIAA1BVFUYRCFUXWxVXCVFcUxJKElFLFVMXCgJcPFVURFtUAEcDChQNXRlDWApnBQEPUQhUFglDB0dIQVkQQRMIXEIJCRVGAwhFRwBDARpbRlMJVQYWH0NVChENRBFIEwgQdTdHFUYEGUVQD0QNVw9GWBISQxYfQ18WOxFVEEVDV1NaABcbXkNRExlDWgVAPgcNXghVV0cIWQsXQQpBAxMeEFoKC1AQDhNuRQhTRgJDVlQCUAMWTg==
+#EXTINF:-1 tvg-logo="" group-title="Filmes",Aquaman
+http://51.15.2.241:25461/movie/app/app/1521.mkv
+#EXTINF:-1 tvg-logo="" group-title="Filmes",Jumanji: Bem-Vindo à Selva
+http://51.15.2.241:25461/movie/app/app/1212.mp4
